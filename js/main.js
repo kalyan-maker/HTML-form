@@ -50,10 +50,7 @@ function validateInput(){
     }
 
     createtablerow();
-    
-    form.submit();
-    return true;
-    
+   
 }
 
 document.querySelector("button")
