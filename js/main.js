@@ -52,7 +52,7 @@ function validateInput(){
     createtablerow();
     
     form.submit();
-    return false;
+    return true;
     
 }
 
