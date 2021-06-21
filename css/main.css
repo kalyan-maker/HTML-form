@@ -13,7 +13,7 @@ body {
   box-sizing: content-box;
   align-items: center;
   position: absolute;
-  background-color: aqua;
+  background-color: #ccc;
 }
 
 .container {
