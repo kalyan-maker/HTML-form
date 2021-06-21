@@ -51,7 +51,7 @@ function validateInput(){
 
     createtablerow();
     
-    formreset();
+    form();
     
 }
 
