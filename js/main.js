@@ -51,6 +51,10 @@ function validateInput(){
 
     createtablerow();
     
+    form.submit();
+    form.reset();
+    return false;
+    
 }
 
 document.querySelector("button")
